@@ -72,6 +72,7 @@
 <style>
     body {
         background: #f8f9fa; /* Warna background abu muda agar kartu putih terlihat menonjol */
+        background: #f8f9fa;
         font-family: 'Poppins', sans-serif;
     }
     .card {
