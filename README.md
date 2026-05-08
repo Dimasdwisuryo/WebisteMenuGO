@@ -145,10 +145,10 @@ WebisteMenuGO/
 
 | Nama | NIM | Peran |
 |------|-----|-------|
-| Dimas Dwi Suryo | - | Backend Developer & Database |
-| Ifli Najzahya Ramadhan | - | Backend Developer |
-| Dimas Arya Irwansyah | - | Frontend Developer |
-| Andrew Napitupulu | - | Tester |
+| Dimas Dwi Suryo | 102062400139 | Backend Developer & Database |
+| Ifli Najzahya Ramadhan | 102062400084 | Backend Developer |
+| Dimas Arya Irwansyah | 102062400113 | Frontend Developer |
+| Andrew Napitupulu | 102062400063 | Tester |
 
 ---
 
